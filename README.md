@@ -26,7 +26,7 @@ A food delivery platform connecting users with local tiffin services.
 
 ### 💡 [DSA Playground](#)
 Structured solutions to Data Structure and Algorithm problems.  
-**🛠️ Tech Stack:** C++ | Python  
+**🛠️ Tech Stack:** C++ 
 
 ### 🔧 [Mini Innovations](#)
 A collection of creative small-scale projects for learning and fun.  
