@@ -30,16 +30,19 @@ Structured solutions to Data Structure and Algorithm problems.
 
 ### 🔧 [Mini Innovations](#)
 A collection of creative small-scale projects for learning and fun.  
-**🛠️ Tech Stack:** Python | C++  
+**🛠️ Tech Stack:** Python | C++   
 
 ---
 
 ## 🌐 Technologies I Love
 💻 Programming:  
-`C` | `C++` | `Python` | `Django`  
+`C` | `C++` | `Python` | `Dart` | `Django` | `Flutter` 
 
 🛠️ Tools & Platforms:  
-`GitHub` | `VS Code` | `PostgreSQL`  
+`GitHub` | `VS Code` | `PostgreSQL`  | `Android studio` | `Firebase ` | 
+
+💻 Area Of Interest :  
+`Development` | `Object-Oriented Programming` | `DBMS` | `DSA` |
 
 ---
 
